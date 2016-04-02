@@ -1,0 +1,17 @@
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jfoster/Dev/Ascent/src/obj/Debug/Assembly-CSharp.dll
+/Users/jfoster/Dev/Ascent/src/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/UnityEngine.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/UnityEditor.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jfoster/Dev/Ascent/src/Temp/bin/Debug/Mono.Cecil.Mdb.dll

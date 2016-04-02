@@ -1,3 +1,3 @@
 # Ascent
 
-A decent clone in Unity.
+A Decent clone in Unity.
